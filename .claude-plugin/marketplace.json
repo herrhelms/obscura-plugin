@@ -1,0 +1,18 @@
+{
+  "name": "herrhelms",
+  "owner": {
+    "name": "herrhelms <helms@straw.io>"
+  },
+  "description": "Plugins for Claude Code and Cowork",
+  "plugins": [
+    {
+      "name": "obscura-plugin",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/herrhelms/obscura-plugin.git"
+      },
+      "description": "Headless-browser site inspection via Obscura + Playwright. Click, scroll, and screenshot a live site, hunt for visual glitches, a11y violations, performance regressions, console/network errors and DOM overlays, then deliver a versioned report folder answering the user's specific question.",
+      "version": "0.0.1"
+    }
+  ]
+}
