@@ -1,0 +1,28 @@
+{
+  "name": "obscura-plugin",
+  "version": "0.1.0",
+  "description": "Headless-browser site inspection via Obscura + Playwright. Click, scroll, and screenshot a live site, hunt for visual glitches, a11y violations, performance regressions, console/network errors and DOM overlays, then deliver a versioned report folder answering the user's specific question.",
+  "author": {
+    "name": "herrhelms",
+    "email": "helms@straw.io"
+  },
+  "license": "MIT",
+  "keywords": [
+    "headless-browser",
+    "obscura",
+    "playwright",
+    "website-inspection",
+    "visual-regression",
+    "accessibility",
+    "axe-core",
+    "performance",
+    "screenshot",
+    "claude-code",
+    "cowork"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/herrhelms/obscura-plugin"
+  },
+  "homepage": "https://github.com/herrhelms/obscura-plugin#readme"
+}

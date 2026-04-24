@@ -1,0 +1,17 @@
+# obscura-plugin plugin-local runtime (bootstrapped on first use)
+.runtime/
+node_modules/
+
+# Inspection outputs — these are per-project, not plugin-scope.
+# End users typically .gitignore this in their OWN repo.
+# Shipped here so the folder exists for development testing.
+.interface/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
