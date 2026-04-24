@@ -1,4 +1,4 @@
-# obscura-plugin
+# Obscura
 
 A Claude Code / Cowork plugin that drives the [Obscura](https://github.com/h4ckf0r0day/obscura) headless browser to inspect a live website, hunt for glitches and regressions, and return a versioned report folder that answers your specific question.
 
