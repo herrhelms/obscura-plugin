@@ -89,7 +89,4 @@ See `skills/website-inspector/references/` for the methodology docs (conversion 
 ## License
 
 MIT — see [LICENSE](./LICENSE).
-
-## Author
-
-**herrhelms** (sebastian.iceland@gmail.com)
+## 
