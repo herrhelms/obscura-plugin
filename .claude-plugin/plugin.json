@@ -1,6 +1,6 @@
 {
   "name": "obscura-plugin",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Headless-browser site inspection via Obscura + Playwright. Click, scroll, and screenshot a live site, hunt for visual glitches, a11y violations, performance regressions, console/network errors and DOM overlays, then deliver a versioned report folder answering the user's specific question.",
   "author": {
     "name": "herrhelms",
