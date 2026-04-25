@@ -1,7 +1,8 @@
 {
   "name": "obscura-plugin",
   "owner": {
-    "name": "herrhelms <helms@straw.io>"
+    "name": "herrhelms",
+    "email": "helms@straw.io"
   },
   "description": "Plugins for Claude Code and Cowork",
   "plugins": [
